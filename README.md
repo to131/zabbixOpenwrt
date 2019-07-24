@@ -1,0 +1,2 @@
+# zabbixOpenwrt
+zabbix
